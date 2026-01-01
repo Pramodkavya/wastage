@@ -27,7 +27,8 @@ tws = KiteTicker(api_key="pramod",
                  )
 
 
-token_id = 4577537  # 256265
+# token_id = 4577537  # 256265
+token_id = 256265  # nifty 50
 
 # global tws
 
